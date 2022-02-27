@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An easie way to get money, cum privilegio, without fear or cumber.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82437</idno>
+            <idno type="STC">Wing E109B</idno>
+            <idno type="STC">ESTC R174840</idno>
+            <idno type="EEBO-CITATION">47682896</idno>
+            <idno type="OCLC">ocm 47682896</idno>
+            <idno type="VID">172853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2653:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An easie way to get money, cum privilegio, without fear or cumber.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Society of Informers,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>in the Year 1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A political satire.</note>
+                  <note>Reproduction of original in: Christ College (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Informers --  England --  Early works to 1800.</term>
+               <term>Assembly, Right of --  Early works to 1800.</term>
+               <term>Conventicle Act, 1670.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172853:1"/>
+            <pb facs="tcp:172853:1"/>
+            <p>An EASIE WAY To Get Money, CUM PRIVILEGIO, Without Fear or Cumber.</p>
+            <q>
+               <bibl>Proverbs Chap. 1. verſ. 11, 12, 13, 14.</bibl>
+               <p>If they ſay, Come with us, let us lay wait for Blood; Let us Lurk privily for the Innocent without cauſe.</p>
+               <p>Let us Swallow them up alive, as the Grave; and whole, as thoſe that go down into the Pit.</p>
+               <p>We ſhall find all pretious ſubſtance; We ſhall fill our Houſes with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>poil</p>
+               <p>Caſt in thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot amongſt us; let us have all one Purſe.</p>
+            </q>
+            <p>Printed for the Society of Informers, in the Year 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172853:2"/>
+            <pb n="3" facs="tcp:172853:2"/>
+            <head>An Eaſie VVay to Get Money, <hi>Cum Privilegio,</hi> without Fear or Cumber.</head>
+            <p>TO all you that can work, and will not; and to all thoſe that through other wayes of Extravigancy have brought your ſelves into Debt, Neceſſity, or other Wants, (for your ſpeedy ſupply, and future ſupport) there is an opertunity put into your hands, that is both Safe, Profitable, and Honourable, &amp;c. (It is to be Infor<g ref="char:EOLhyphen"/>mers.)</p>
+            <p>Firſt, it is an Eaſie Way; it is no more then this, Seek out where there is in any Houſe, Barn, Stable, or Back-ſide, five Perſons, beſides the People of the Family; though they ſpake never a Word; yes if you Swear it is a Conventicle, then it is a Conventicle; it is no matter if there were never a thought in their hearts, as to Plot<g ref="char:EOLhyphen"/>ting, or Contriving Inſurections, (for which the <hi>Law</hi> was made) they being there, its ſufficient to have them Fined five Shillings apeece, the firſt Time, and Twenty Pounds for the Houſe; and for the ſecond Time ten Shillings apeece, and if the Juſtice be not well adviſed, it may be for the
+<pb n="4" facs="tcp:172853:3"/> ſecond Time for the Houſe, you may get twenty Pounds more, although the <hi>Act</hi> doth not grant it. And of all this it is ſaid the thirds is yours, this you may eaſily have; for the Juſtices are afraid of your power; for you have them under your ice, ſo they will not much queſtion you, leſt they be counted <hi>Fanaticks;</hi> and they know that if they do not pleaſe your wills, your power is ſuch, that you may reco<g ref="char:EOLhyphen"/>ver fifty Pounds, for your parts, by <hi>Action Suite, Bill or Plea in any of his Majeſties Courts at Weſtminſter: wherein no Eſſoyne, Protection, Wager of Law ſhall Ly.</hi> Can your hearts deſire more? Who will nor be <hi>Informers?</hi> That muſt have all <hi>Clauſes conſtrued moſt largly, and Beneficially to their Juſtification, and Encouragement.</hi>
+            </p>
+            <p>Secondly, it is Profitable, For beſide the twenty Pounds, and ten Shillings apeece for Meeting. Yet if you can but Tempt any by your Queſtions, or other Provocations to Speak but a Word, to Anſwer you, it will ſerve to make him <hi>a Preacher,</hi> and then for the firſt there is twenty Pounds, and the ſecond forty Pounds, its no matter what is Spoke, or to what Concern, if you Swear, you did hear ſuch a One ſpake, it is enough to make him <hi>a Preacher.</hi>
+            </p>
+            <p>And as to the inabillity, there is no danger, that you ſhould fall ſhort of your <hi>Sallery.</hi> For you can by your Power make void (that old and ſuppoſed true Proverb) where it is not to be had the <hi>King</hi> muſt loſe his Right. But your <hi>Prerogative</hi> is ſuch, that if the Offender hath it not, you can command your Servants, to Levy it on any other that is not an Offender in that nature, provided he be there, other<g ref="char:EOLhyphen"/>wiſe an Apeal will be granted.</p>
+            <p>And for certainty of your <hi>Sallary,</hi> you exceed all <hi>Lords of Manners,</hi> who have onely <hi>Manner Courts, with Stewards, Reeves, and Tennants.</hi> For you have four <hi>Seſsions</hi> in the Year, and inſtead of <hi>Stewards,</hi> all the <hi>Juſtices</hi> of each
+<pb n="5" facs="tcp:172853:3"/> County, ſit to gather your Rents (gratis) and all the <hi>Con<g ref="char:EOLhyphen"/>ſtables, Church-wardens, and Overſeers, in the County,</hi> are your <hi>Reeves,</hi> to bring in your Rents, on Penalty of forfeir<g ref="char:EOLhyphen"/>ing five Pounds apiece; and ſome through your dread have ventured ſo far as to break Locks (which is a Power more then the <hi>Barrons</hi> of the <hi>Exchequer</hi> can grant to ſerve an <hi>Ex<g ref="char:EOLhyphen"/>ecution</hi>) ſo that none muſt gainſay your will; and if any <hi>Action</hi> be diſputable, all muſt be Conſtrued moſt Largely, and Beneficially, for your Juſtification, and Encouragment; that is, to put you in heart in your enterprizes. The Juſti<g ref="char:EOLhyphen"/>ces muſt have a regard to your dilligence: So no Error ſhall be counted an Error in you, though you Sware there were above four, though you were not there; and this muſt be a Record and a ſufficient conviction againſt any whom you pleaſe to accuſe.</p>
+            <p>And though that People, that do not know your Power, may prate of <hi>Magna Charta,</hi> with his Tryal by two <hi>Juries</hi> of their, equals, and in <hi>open Court,</hi> where they may have Councel to plead for them; You may tell them, that that is common <hi>Law,</hi> but this is a ſpecial <hi>Law,</hi> made onely for you; and all things therein muſt be conſtrued in Favour to you; and the <hi>Juſtices</hi> muſt have a ſpecial regard to your dilligence. And as to <hi>Magna Charta</hi> that allows of ſo much diſputing in publick, by <hi>Lawyers</hi> and <hi>Councellers,</hi> which make a lingering buſineſs of a ſmall matter, with their <hi>Writs</hi> of <hi>Error,</hi> and <hi>Removes</hi> to <hi>London,</hi> and then down again: So that a man is along time before he is undone; ſo that a man is keep in hopes and fear, which is worſe then death it ſelf.</p>
+            <p>Now this ſpecial <hi>Law</hi> fore-ſeeing the inconvenience of the former tract and common road, by which men came to a lingering death, hath provided a more ſpeedy way, by making <hi>Informers;</hi> for now a man (by them) may be
+<pb n="4" facs="tcp:172853:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:172853:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:172853:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:172853:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:172853:6"/> Convicted in private, (without having ſo many ſcoulding <hi>Lawyers</hi>) and have all his Goods taken from him in two hours Time, and the man not know of it before it be done: So a man cannot be long in Trouble, but may be upon a new reſolve, and his mind quiet.</p>
+            <p>And if any ſhall object againſt you, and call you <hi>Knights</hi> of the <hi>Poſt,</hi> and that you ſwear for a Reward, and that the <hi>Law</hi> doth not admit of any to ſwear, that is to have any Profit by ſwearing. For anſwer, you may tell them, that the <hi>Knights</hi> of the <hi>Poſt</hi> do take mony to ſwear, for one man againſt another, to carry a <hi>Tryal:</hi> But you do as duty binds you, to ſwear for the <hi>King;</hi> and if for this, the <hi>Law</hi> allows you a reward, who ſhall gainſay you? Your <hi>Law</hi> is as good as any other <hi>Law,</hi> which none dare gainſay.</p>
+            <p>Moreover, you may tell them, That there was a neceſſity of making this <hi>Law</hi> after this manner; <hi>For there was a dull ſpirit in Magiſtrates</hi> and <hi>Officers every where; and therefore thoſe Former Laws became a dead Letter, and died through want of Execution;</hi> But ſince that we have been Booted and Spur'd, we have Spar'd them up, with our <hi>Hundred</hi> and <hi>five Pound</hi> Spurts, that we have tried the mettle of all; So that there is none we know of, but what runs agallop; and ſome run ſo faſt, by reaſon of our Spurs, that they <hi>put more Spirit in the Law, then ever was intended by the Parliament.</hi>
+            </p>
+            <p>And moreover, this way of <hi>Information</hi> is the <hi>way of all wayes;</hi> For it is like to bring all to your <hi>Reformation,</hi> without they will <hi>choſe Deſolation;</hi> So that all the <hi>former Limit<g ref="char:EOLhyphen"/>ted Acts</hi> of great <hi>Fines, Baniſhment,</hi> and upon <hi>Return Death,</hi> all theſe were of no value; For theſe though they were great <hi>Fines, yet the Diſtreſſes were according to Law, to be Praiſed, and over pluſſes to be returned;</hi> But now, though the <hi>Fine</hi> be but ſmall in words, <hi>yet a hundred pounds worth of Goods may be taken for ten ſhillings; For there is no overplus to be
+<pb n="7" facs="tcp:172853:6"/> Returned back, nor no Goods to be Praiſed;</hi> ſo there is no value to be put on <hi>any thing that is taken;</hi> So there is no with<g ref="char:EOLhyphen"/>ſtanding the <hi>Informers unlimitted power;</hi> they can com<g ref="char:EOLhyphen"/>mand all the <hi>Militia, Houſe and Foot,</hi> with the <hi>Deputies Lievfienants, Sheriffs,</hi> and other <hi>Officers,</hi> in every County to ſerve their will in <hi>all things,</hi> and at <hi>all times;</hi> as if the <hi>Sab<g ref="char:EOLhyphen"/>bath</hi> were onely made for them.</p>
+            <p>Thirdly, it is ſafe; For the back Door is ſhut, for that none can appeal from your <hi>Servants,</hi> nor to them neither, if they neglect <hi>but ſeven Dayes,</hi> and they having had a hand in <hi>your buſineſs;</hi> for you have forc'd them to give out <hi>Warrants,</hi> in the <hi>Execution</hi> of your <hi>power;</hi> ſo there is no fear of letting it paſs againſt themſelves: For your <hi>ſwearing</hi> offends none, neither can you be troubled; it is the <hi>Juſtices</hi> that give the <hi>Warrant,</hi> and <hi>Officers</hi> that <hi>Execute</hi> it; never fear that they will condemn <hi>themſelves;</hi> ſo all muſt paſs for <hi>you;</hi> and you can terrifie them with this <hi>Clauſe in the Act, that all muſt be Conſtrued moſt Largely,</hi> and <hi>Beni<g ref="char:EOLhyphen"/>ficially, to your Juſtification</hi> and <hi>Encouragement:</hi> So do what you will, you need not fear to be condemned; For then they will condemn <hi>themſelves.</hi>
+            </p>
+            <p>And here you will have trebble Coſt too; ſo you will be <hi>Gainers</hi> on all hands; And never <hi>fear</hi> of bringing <hi>Suits</hi> in other <hi>Courts;</hi> For your <hi>Servants,</hi> the <hi>Juſtices,</hi> muſt finally determine all.</p>
+            <p>Again, conſider, beſides the <hi>power</hi> granted you, the <hi>dread</hi> and <hi>fear</hi> that People are in, that are under your <hi>Task-maſter<g ref="char:EOLhyphen"/>ſhip,</hi> how irregularly they break the <hi>Laws to pleaſe you;</hi> So Terrible you are to them, that one <hi>Conſtable</hi> ſhall undo ten men, rather then call your will in Queſtion: Now <hi>the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw ſaith</hi> that rationally (conſidering there is no order of <hi>Praiſing</hi> and returning overpluſſes) that the levying of the <hi>Diſtreſſes,</hi> ſhould not be in any one <hi>Office,</hi> or <hi>Officers hand,</hi> in <hi>any</hi>
+               <pb n="6" facs="tcp:172853:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:172853:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:172853:8"/> 
+               <hi>Pariſh;</hi> but doth authorize and require, every <hi>Conſtable Head<g ref="char:EOLhyphen"/>borough, Tything-man, Church-wardens, Overſeers</hi> of the <hi>Poor, Reſpectively</hi> to do it; it doth not ſay, <hi>either of them, or any of them, or the major-part of them; But every of them.</hi> And ſo according to this <hi>Act,</hi> is the <hi>Juſtice's Warrant</hi> to be made, which is but Rational, like the eight or twelve men of <hi>a Pariſh</hi> to make <hi>a Rate,</hi> and not for <hi>a Covetous Envious Conſtable</hi> to be <hi>Informer, Diſtrainner, and Levyer,</hi> and ne<g ref="char:EOLhyphen"/>ver give <hi>an account for any thing above five ſhillings;</hi> and of that he hopes to have a third <hi>Part</hi> too; and it is a great Queſtion in <hi>Law</hi> whether there be to be <hi>a Pluralliy of Offices,</hi> eſpecially when the <hi>Informer</hi> is one.</p>
+            <p>
+               <hi>Follow my fancy; whether wilt thou go? out of the way, well to return again.</hi>
+            </p>
+            <p>To encourage thoſe new inſtall'd <hi>Officers,</hi> which regard muſt be had unto; I ſay, if any ſhould be ſo mad, as to pretend a diſorderly proceeding, in the taking away of his <hi>Goods;</hi> Yet it will not fall upon you; it will fall upon your <hi>Vaſſels</hi> and <hi>Slaves,</hi> who do your druggery, who enter <hi>into men's Grounds,</hi> and take away their <hi>Cattle,</hi> and enter into mens <hi>Houſes</hi> and Shops, and take away their <hi>Goods</hi> and <hi>Tools,</hi> by which they ſhould get Bread for their <hi>Children:</hi> but for your parts, who are the <hi>Informers,</hi> you need not take the trouble, nor fear the <hi>Danger,</hi> only to come at the <hi>Seſſions,</hi> to receive <hi>your Rents,</hi> of your <hi>Stewards;</hi> it is no queſtion but that theſe your <hi>Reeves</hi> will bring it in; For they are <hi>reſponſable Men;</hi> For they are the full Body of <hi>Officers</hi> in every <hi>Pariſh, as Conſtables, Headboroughs, Tything-men Church wardens, Over-ſeers.</hi> And moreover, they can take all that a man hath for ten <hi>ſhillings,</hi> and if one man hath it not, they may take it from another that hath it, and ſell good Peny-worths; For they ſhall never be queſtioned for the <hi>Price,</hi> nor return any back; ſo you are upon better, and
+<pb n="9" facs="tcp:172853:8"/> more <hi>ſure Terms,</hi> then the beſt <hi>Lords in the Land,</hi> for any <hi>Eſtate</hi> they hold; For if thoſe men, aforeſaid, do Omit or Neglect their <hi>Duty,</hi> there is <hi>a Penalty of five Pounds apiece</hi> for their ſo Neglect; and in ſome <hi>Pariſhes</hi> there are ſo many of thoſe your <hi>Servants,</hi> as it may come to <hi>Forty or Fifty Pounds;</hi> the <hi>leaſt Pariſh comes to Thirty Pounds;</hi> and of all this, <hi>the Third part is yours.</hi> So let it go which way it will, Money will be ſure for you; For all muſt be <hi>moſt Largely Conſtrued to your Benefit, Juſtification and Encouragement.</hi>
+            </p>
+            <p>And never fear <hi>Old Magna Charta's After-claps,</hi> which was made in time of <hi>Popery,</hi> with his publick <hi>Authorizing, Scowlding before the Country,</hi> with <hi>Lawyers</hi> Contending one againſt the other, and troubling the <hi>Country</hi> to come to <hi>Aſſizes</hi> and <hi>Seſſions,</hi>
+            </p>
+            <p>But this is <hi>New Magna Charta, that</hi> puts you in <hi>Office,</hi> whoſe Oath in <hi>a private Chamber, is a full Conviction; and muſt be a Record,</hi> though it be but before one <hi>Juſtice:</hi> So you be<g ref="char:EOLhyphen"/>ing <hi>Fſtabliſhed,</hi> end all the Former <hi>Laborinth</hi> of <hi>Trouble</hi> and <hi>Cumber,</hi> which was made in time of <hi>Popiſh Darkneſs.</hi>
+            </p>
+            <p>And if any yet will contend with you about the <hi>Con<g ref="char:EOLhyphen"/>ſtitutions</hi> of it, the <hi>Nation,</hi> &amp; their <hi>Privilleges,</hi> to have their <hi>Ac<g ref="char:EOLhyphen"/>cuſers Face to Face,</hi> and to be Judged by their <hi>Equals, Twelve honeſt Men of the Neighbour-hood,</hi> and in Caſe of any <hi>Cor<g ref="char:EOLhyphen"/>ruption</hi> there, to <hi>Appeal</hi> to the <hi>King's Court at Weſt-minſter,</hi> or to the <hi>King himſelf in Chancery,</hi> which is call'd the <hi>Court</hi> of <hi>Conſcience.</hi>
+            </p>
+            <p>As in anſwer to that, tell them, the <hi>Parliament</hi> now is of as much <hi>Power</hi> to <hi>Repeal that, as they were to make it;</hi> For they are the <hi>Legiſlative Power;</hi> and is not the Laſt <hi>Will,</hi> and <hi>Teſtament of a dead Man,</hi> the <hi>ſtanding Will,</hi> that muſt be put in <hi>Execution.</hi> As for having the <hi>Accuſers Face</hi> to <hi>Face,</hi> and <hi>Appeals,</hi> this was <hi>Romiſh,</hi> in <hi>Bloody Bonner's Time,</hi> and we muſt not take a preſident of his <hi>Romiſh Laws,</hi> for <hi>Chriſtians:</hi>
+               <pb n="8" facs="tcp:172853:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:172853:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:172853:10"/> What a Cumber was about <hi>Paul,</hi> with their Tedious <hi>Laws?</hi> As when the <hi>Captain</hi> of the <hi>Caſtle</hi> took him from the <hi>Jews,</hi> and Commanded him to be <hi>Examined with Scourging,</hi> and as they <hi>bound him with thongs, Paul</hi> ſaid to the <hi>Centurion</hi> that ſtood by; is it <hi>lawfull</hi> for you to <hi>ſcourge a Roman uncondemned?</hi> this their <hi>Romiſh</hi> way was, to ſet <hi>Offenders</hi> before the <hi>Councel,</hi> and then again to the <hi>Councel,</hi> and <hi>Accuſers brought,</hi> and then again with <hi>two Hundred Souldiers, and Seventy Horſ men,</hi> and <hi>Speer men, two Hundred to go to the Governor,</hi> and to defend the <hi>Accuſed againſt his A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verſaries;</hi> And then again to <hi>Cae<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r;</hi> and all this <hi>Troubleſom</hi> and <hi>Chargable Way</hi> was, be<g ref="char:EOLhyphen"/>cauſe they did not know this <hi>quick, and eaſie Way</hi> of <hi>Informers.</hi>
+            </p>
+            <p>Fourthly, As to the <hi>Honourableneſs of the Office,</hi> Is it not Honourable enough to command <hi>Lievtenants of Counties? Deputy Lievftenants, Sheriffs, Captains</hi> of all the <hi>Militia Horſe and Foot,</hi> to follow the <hi>Informers,</hi> where they will? Are not you <hi>Generals?</hi> This is more then to be <hi>a Centarl<g ref="char:EOLhyphen"/>on,</hi> that had only <hi>Souldiers</hi> under him. So much for the <hi>Militia.</hi>
+            </p>
+            <p>As to the <hi>Civil Power,</hi> the <hi>Juſtices</hi> are your <hi>Secretaries,</hi> and all other <hi>Parocal Officers,</hi> (as aforeſaid) are your <hi>Slaves</hi> and <hi>Vaſſels,</hi> onely the <hi>Judges</hi> are freed from your <hi>Servitude,</hi> onely they have their <hi>Laws</hi> by themſelves, that you are not to meddle with, and you your <hi>Laws</hi> that they are not to meddle with, <hi>And is as the Laws of the Meads</hi> and <hi>Perſians, not to be altered, till the Parliament ſee your Ambitious Tyrany.</hi>
+            </p>
+            <p>As to the obtaining of this <hi>Office</hi> you need not to be at any <hi>great Charge</hi> or <hi>Coſt</hi> to <hi>Purchaſe it,</hi> not to <hi>run in Debt</hi> to fit your ſelves with <hi>Cuterments,</hi> to ſet you forth: For be you in what <hi>Equipage you will,</hi> all <hi>Officers Dread you.</hi> And your <hi>very Name</hi> is enough to make <hi>Hundreds flee before you;</hi> and the <hi>very firſt Conventicle,</hi> you Enter, you may <hi>Commence Doctors;</hi> the <hi>Study</hi> is not <hi>long,</hi> that you ſhould loſe ſo much time at the <hi>Ends-of-Court,</hi> to <hi>Study the Old
+<pb n="11" facs="tcp:172853:10"/> Magna Charta;</hi> that one becomes an Old Man, before he be able to Conſtrue it; For the <hi>Egyptians did figure Juſtice</hi> to be a <hi>Blind Old Man,</hi> with an <hi>equal Ballance</hi> in his Hand, and <hi>Studients</hi> and <hi>People</hi> have ever ſince been <hi>looking,</hi> and <hi>wagering,</hi> which way the <hi>Ballance would Turn;</hi> And ſome preſume to ſay this was <hi>Old Magna Charta:</hi> But now, as to you, there is no need to <hi>ſtudy Contrivances,</hi> or which <hi>Way</hi> the <hi>Scale</hi> ſhall <hi>Turn;</hi> For all may ſee plainly the <hi>Scale Turns to you;</hi> For all muſt be <hi>Conſtrued moſt Largely and Benefi<g ref="char:EOLhyphen"/>cially to your Juſtification and Encouragement.</hi>
+            </p>
+            <lg>
+               <l>And if you will not this believe,</l>
+               <l>The Act confirms, though ſome do grieve.</l>
+            </lg>
+            <p>And that there may be no exceptions againſt any that ſhall take this <hi>Office</hi> upon them, obſerve theſe Cautions.</p>
+            <p>Firſt they muſt be neither <hi>Payers</hi> nor <hi>Receivers,</hi> in any <hi>Pariſh;</hi> For then the <hi>Lawyers</hi> will <hi>Object,</hi> that they are <hi>Parties;</hi> For that either of them will have <hi>a Benefit</hi> by it, which thay call <hi>Illegal</hi>
+            </p>
+            <p>And as for <hi>Profeſſion</hi> they muſt be no <hi>Jewes;</hi> For they were not to <hi>Covet their Neighbours Ox, nor Aſs, nor any thing that was their Neigbours.</hi>
+            </p>
+            <p>Neither <hi>Gentiles;</hi> For they had <hi>Conſcience accuſing, and did by Nature</hi> the things <hi>Contained in the Law,</hi> having the <hi>Law writ in their Hearts.</hi>
+            </p>
+            <p>Neither <hi>Chriſtians;</hi> For they ſay, <hi>they Forſake the Devil, and all his Works, and all the Luſt's of the Fleſh;</hi> and not to <hi>hurt any by Word, nor Deed;</hi> Which is leſs then <hi>Sweating.</hi>
+            </p>
+            <p>And as for the <hi>Turk's Profeſſion,</hi> I know not what it is; If there may ariſe any, ſo be it; For the <hi>Reſt</hi> Profeſs the Contrary.</p>
+            <p>
+               <hi>A true Bill</hi> is no <hi>Lybil;</hi> And for any in whoſe <hi>Hands,</hi> this may come, If they <hi>fear</hi> any <hi>Danger</hi> in it, they ought not to <hi>Conceal</hi> it; But to bring it before ſome <hi>Juſtice, or the chief Magiſtrate</hi> of the <hi>Place,</hi> with <hi>an account</hi> how they came to it, and then they are <hi>Innocent:</hi> then if it cannot clear it ſelf, let it lie in <hi>Priſon</hi> tell it <hi>Periſh.</hi>
+            </p>
+            <trailer>And ſo there's an end.</trailer>
+            <pb n="10" facs="tcp:172853:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:172853:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
